@@ -50,17 +50,21 @@ This repository covers the **foundations of data visualization** in Python.
 
 🎓 Learning Source
 This training set is inspired by and based on the amazing content of the Learnerea YouTube channel.
+
 Special thanks to Learnerea for providing clear and well-structured tutorials.
-<br>
+
 👨‍💻 Author
+
 Developed and maintained by: UstubecEmre
 
 📧 emresb1999@gmail.com 🔗 GitHub Profile
 
 Feel free to fork, explore, and improve!
 <br>
+
 License
-This project is open source and available under the MIT License 
-<br>
-⭐️ Star this repo
+This project is open source and available under the MIT License <br>
+
+<br>⭐️ Star this repo
+
 If you found this helpful, consider giving it a ⭐️ to help others discover it.
