@@ -13,11 +13,13 @@ This repository covers the **foundations of data visualization** in Python.
 - The goal is to make learners comfortable with both the syntax and the **"why"** behind different chart types.
 
 ---
-
+<br>
 ## 🛠 Libraries Used
 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+
+
 | Filename                              | Description                           |
 | ------------------------------------- | ------------------------------------- |
 | `data_visualization_intro.ipynb`      | Introduction to the world of plotting |
@@ -44,19 +46,21 @@ This repository covers the **foundations of data visualization** in Python.
 | `clustermap_in_seaborn.ipynb`         | Hierarchical clustering heatmaps      |
 | `facetgrid_in_seaborn.ipynb`          | Multi-plot grids by category          |
 
+
+
 🎓 Learning Source
 This training set is inspired by and based on the amazing content of the Learnerea YouTube channel.
 Special thanks to Learnerea for providing clear and well-structured tutorials.
-
+<br>
 👨‍💻 Author
 Developed and maintained by: UstubecEmre
 
 📧 emresb1999@gmail.com 🔗 GitHub Profile
 
 Feel free to fork, explore, and improve!
-
+<br>
 License
 This project is open source and available under the MIT License 
-
+<br>
 ⭐️ Star this repo
 If you found this helpful, consider giving it a ⭐️ to help others discover it.
